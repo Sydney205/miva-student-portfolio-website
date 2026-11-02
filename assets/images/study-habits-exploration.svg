@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 520" role="img" aria-labelledby="title desc">
+  <title id="title">Study habits data exploration concept</title>
+  <desc id="desc">A scatter plot concept comparing study hours and practice questions completed using illustrative sample data.</desc>
+  <rect width="900" height="520" fill="#ecebe4"/><rect x="48" y="34" width="804" height="452" rx="6" fill="#fbfaf7"/>
+  <text x="88" y="84" font-family="Arial,sans-serif" font-size="12" letter-spacing="1.5" fill="#8e4f3e">EXPLORATORY ANALYSIS / SAMPLE DATA</text><text x="86" y="130" font-family="Georgia,serif" font-size="31" fill="#252923">Study time and practice</text>
+  <text x="126" y="177" font-family="Arial,sans-serif" font-size="13" fill="#656960">Practice questions completed</text>
+  <line x1="142" y1="417" x2="752" y2="417" stroke="#8e8c83"/><line x1="142" y1="205" x2="142" y2="417" stroke="#8e8c83"/>
+  <line x1="142" y1="365" x2="752" y2="365" stroke="#e0ded6"/><line x1="142" y1="312" x2="752" y2="312" stroke="#e0ded6"/><line x1="142" y1="259" x2="752" y2="259" stroke="#e0ded6"/><line x1="142" y1="206" x2="752" y2="206" stroke="#e0ded6"/>
+  <circle cx="198" cy="383" r="7" fill="#b9664f"/><circle cx="247" cy="352" r="7" fill="#b9664f"/><circle cx="294" cy="365" r="7" fill="#b9664f"/><circle cx="344" cy="326" r="7" fill="#b9664f"/><circle cx="395" cy="342" r="7" fill="#b9664f"/><circle cx="446" cy="296" r="7" fill="#b9664f"/><circle cx="493" cy="311" r="7" fill="#b9664f"/><circle cx="548" cy="267" r="7" fill="#b9664f"/><circle cx="604" cy="282" r="7" fill="#b9664f"/><circle cx="659" cy="229" r="7" fill="#b9664f"/><circle cx="706" cy="244" r="7" fill="#b9664f"/>
+  <text x="360" y="462" font-family="Arial,sans-serif" font-size="13" fill="#656960">Study hours per week</text><text x="88" y="400" transform="rotate(-90 88 400)" font-family="Arial,sans-serif" font-size="13" fill="#656960">Questions completed</text>
+  <text x="606" y="455" font-family="Arial,sans-serif" font-size="11" fill="#656960">Illustrative values only</text>
+</svg>

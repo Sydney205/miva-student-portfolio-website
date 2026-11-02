@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 520" role="img" aria-labelledby="title desc">
+  <title id="title">Small business website concept preview</title>
+  <desc id="desc">A neighbourhood bakery website concept with a menu and shop information.</desc>
+  <rect width="900" height="520" fill="#ece7df"/><rect x="54" y="38" width="792" height="444" rx="8" fill="#fbfaf7"/>
+  <rect x="54" y="38" width="792" height="58" rx="8" fill="#fff"/><text x="93" y="76" font-family="Georgia,serif" font-size="22" fill="#6c4638">Sunday Bread</text><text x="620" y="74" font-family="Arial,sans-serif" font-size="12" fill="#656960">OUR BREAD   VISIT US</text>
+  <rect x="54" y="96" width="792" height="306" fill="#d9c2a5"/><path d="M490 402c24-100 64-162 116-172 47-9 93 53 133 172" fill="#a56d4f"/><path d="M558 290c0-45 27-77 61-77 35 0 61 32 61 77-35 22-87 22-122 0" fill="#c99162"/><circle cx="620" cy="258" r="14" fill="#e2bb88"/>
+  <text x="104" y="185" font-family="Arial,sans-serif" font-size="12" letter-spacing="2" fill="#6c4638">BAKED HERE, EVERY MORNING</text><text x="100" y="237" font-family="Georgia,serif" font-size="39" fill="#332a25">Good bread.</text><text x="100" y="282" font-family="Georgia,serif" font-size="39" fill="#332a25">Good neighbours.</text><text x="102" y="323" font-family="Arial,sans-serif" font-size="14" fill="#554940">Small batches, long mornings, warm ovens.</text>
+  <rect x="101" y="344" width="128" height="38" rx="3" fill="#6c4638"/><text x="124" y="368" font-family="Arial,sans-serif" font-size="12" fill="#fff">SEE THE MENU</text>
+  <text x="96" y="447" font-family="Arial,sans-serif" font-size="12" fill="#656960">TUES-SUN  /  8AM UNTIL SOLD OUT</text><text x="663" y="447" font-family="Arial,sans-serif" font-size="12" fill="#656960">A LOCAL BUSINESS CONCEPT</text>
+</svg>

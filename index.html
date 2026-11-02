@@ -1,17 +1,18 @@
-<!doctype html>
+<!DOCTYPE html>
 <html lang="en">
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Dieke Syndey | Home</title>
-    <link rel="stylesheet" href="./css/styles.css" />
+    <meta name="description" content="Dieke Syndey's student portfolio and academic management website." />
+    <title>Dieke Syndey | Student Portfolio</title>
+    <link rel="stylesheet" href="css/styles.css" />
   </head>
   <body>
     <header class="topbar">
-      <nav class="nav">
-        <div class="brand">Dieke Syndey</div>
+      <nav class="nav" aria-label="Main navigation">
+        <a class="brand" href="index.html">Dieke Syndey</a>
         <div class="nav-links">
-          <a href="index.html">Home</a>
+          <a href="index.html" aria-current="page">Home</a>
           <a href="views/about.html">About</a>
           <a href="views/project.html">Projects</a>
           <a href="views/academic-planner.html">Planner</a>
@@ -21,36 +22,56 @@
     </header>
 
     <main class="container">
-      <section class="hero">
-        <img class="profile-img" src="./assets/images/101925868.jfif" alt="Dieke Syndey portrait" />
+      <section class="hero home-hero" aria-labelledby="welcome-heading">
+        <img class="profile-img" src="assets/images/dieke-portrait.png" alt="Portrait of Dieke Syndey" />
         <div>
-          <span class="eyebrow">Welcome</span>
-          <h1>Building ideas that turn into impact.</h1>
-          <p class="lead">
-            I am a motivated learner and aspiring digital professional passionate about design,
-            technology, and creating meaningful experiences through modern web solutions.
-          </p>
+          <span class="eyebrow">Student portfolio</span>
+          <h1 id="welcome-heading">Hi, I'm Dieke.</h1>
+          <p class="lead">I'm learning web technologies and working towards a career in web development.</p>
+          <p>I like finding out how things work and turning what I learn into something useful. This site is a place to share a little about me, show my projects, and keep track of study tasks.</p>
           <div class="cta-group">
-            <a class="btn btn-primary" href="views/about.html">Learn More</a>
-            <a class="btn btn-secondary" href="views/project.html">View Projects</a>
+            <a class="btn btn-primary" href="views/about.html">Get to know me</a>
+            <a class="btn btn-secondary" href="views/project.html">Explore my projects</a>
           </div>
         </div>
       </section>
 
-      <section class="summary-grid">
+      <section class="home-details" aria-label="Profile and learning resources">
         <article class="card">
-          <h3>Education</h3>
-          <p>Focused on building a strong foundation in communication, analysis, and digital learning.</p>
+          <span class="eyebrow">A little about me</span>
+          <h2>What I'm working towards</h2>
+          <p>I'm interested in technology, creative problem solving, and making digital tools easier to use. For now, I'm building a solid foundation in HTML, CSS, and JavaScript.</p>
+          <a class="project-link" href="views/about.html">Read my biography</a>
         </article>
         <article class="card">
-          <h3>Goals</h3>
-          <p>To grow into a skilled technology professional and create user-focused digital solutions.</p>
-        </article>
-        <article class="card">
-          <h3>Interests</h3>
-          <p>Web development, design, learning, and creative problem-solving in everyday life.</p>
+          <span class="eyebrow">Learning snapshot</span>
+          <h2>Current areas of focus</h2>
+          <div class="table-wrap">
+            <table>
+              <caption>Skills and interests shared in this portfolio</caption>
+              <thead><tr><th scope="col">Area</th><th scope="col">Focus</th></tr></thead>
+              <tbody>
+                <tr><th scope="row">Web technologies</th><td>HTML, CSS, and JavaScript</td></tr>
+                <tr><th scope="row">Design</th><td>Responsive, user-friendly layouts</td></tr>
+                <tr><th scope="row">Career goal</th><td>Web development and digital innovation</td></tr>
+              </tbody>
+            </table>
+          </div>
         </article>
       </section>
+
+      <section class="media-section card" aria-labelledby="media-heading">
+        <div>
+          <span class="eyebrow">A moment in nature</span>
+          <h2 id="media-heading">A short video</h2>
+          <p>A small sample included as part of the site's media section.</p>
+        </div>
+        <video controls preload="none" aria-label="Short sample video of flowers moving in a breeze">
+          <source src="https://interactive-examples.mdn.mozilla.net/media/cc0-videos/flower.mp4" type="video/mp4" />
+          Your browser does not support video playback. <a href="https://interactive-examples.mdn.mozilla.net/media/cc0-videos/flower.mp4">Open the sample video</a>.
+        </video>
+      </section>
     </main>
+    <footer class="site-footer"><p>Dieke Syndey / COS 106</p></footer>
   </body>
 </html>

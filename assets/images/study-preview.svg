@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 520" role="img" aria-labelledby="title desc">
+  <title id="title">Online learning page concept preview</title>
+  <desc id="desc">A study page concept with a course list and lesson panel.</desc>
+  <rect width="900" height="520" fill="#ecebe4"/><rect x="54" y="38" width="792" height="444" rx="8" fill="#fbfaf7"/>
+  <rect x="54" y="38" width="792" height="54" rx="8" fill="#35483d"/><text x="92" y="72" font-family="Georgia,serif" font-size="21" fill="#fff">Fieldnotes</text><text x="660" y="70" font-family="Arial,sans-serif" font-size="12" fill="#e8e9df">COURSES   MY NOTES</text>
+  <text x="100" y="143" font-family="Arial,sans-serif" font-size="12" letter-spacing="2" fill="#8e4f3e">LEARN AT YOUR OWN PACE</text><text x="100" y="190" font-family="Georgia,serif" font-size="38" fill="#252923">A calmer way to study.</text>
+  <rect x="100" y="220" width="400" height="180" rx="4" fill="#d8dfd2"/><circle cx="300" cy="305" r="49" fill="#a8b49b"/><path d="M300 273l31 33h-62z" fill="#35483d"/><text x="128" y="374" font-family="Arial,sans-serif" font-size="12" fill="#35483d">LESSON 01  /  GETTING STARTED</text>
+  <text x="548" y="255" font-family="Georgia,serif" font-size="25" fill="#252923">On the syllabus</text><line x1="548" y1="275" x2="772" y2="275" stroke="#dddcd4"/>
+  <circle cx="560" cy="307" r="12" fill="#b9664f"/><text x="556" y="311" font-family="Arial,sans-serif" font-size="10" fill="#fff">1</text><text x="584" y="312" font-family="Arial,sans-serif" font-size="14" fill="#252923">Plan a weekly routine</text>
+  <circle cx="560" cy="350" r="12" fill="#e5e1d8"/><text x="556" y="354" font-family="Arial,sans-serif" font-size="10" fill="#656960">2</text><text x="584" y="355" font-family="Arial,sans-serif" font-size="14" fill="#656960">Break work into steps</text>
+  <rect x="548" y="382" width="150" height="36" rx="3" fill="#b9664f"/><text x="570" y="405" font-family="Arial,sans-serif" font-size="12" fill="#fff">CONTINUE LESSON</text>
+</svg>

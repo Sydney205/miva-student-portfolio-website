@@ -24,12 +24,15 @@
       <div class="planner-box">
         <h1>Academic Planner</h1>
 
+        <p class="lead">Keep track of coursework and study plans. Tasks are saved in this browser.</p>
         <form id="task-form">
-          <input type="text" id="task-input" placeholder="Add a new task" />
+          <label class="visually-hidden" for="task-input">New academic task</label>
+          <input type="text" id="task-input" placeholder="Add a new task" aria-describedby="planner-help" />
           <button class="add-btn" type="submit">Add Task</button>
         </form>
+        <p id="planner-help" class="muted-note">Press Add Task, then check a task when it is complete.</p>
 
-        <ul id="task-list"></ul>
+        <ul id="task-list" aria-live="polite"></ul>
       </div>
     </main>
 
